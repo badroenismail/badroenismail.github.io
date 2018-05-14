@@ -1380,14 +1380,74 @@ body {
 .cid-qS04zrJjic .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
+.cid-qS0wkCHLGY {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #171e48;
+}
+.cid-qS0wkCHLGY .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qS0wkCHLGY .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qS0wkCHLGY .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qS0wkCHLGY .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qS0wkCHLGY .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qS0wkCHLGY .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qS0wkCHLGY .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qS0wkCHLGY .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qS0wkCHLGY .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
 .cid-qS03QpBoUA .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #171e48;
   transition: none;
   min-height: 77px;
 }
 .cid-qS03QpBoUA .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #171e48;
 }
 .cid-qS03QpBoUA a {
   font-style: normal;
@@ -1471,7 +1531,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qS03QpBoUA .dropdown .dropdown-menu {
-  background: #333333;
+  background: #171e48;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1770,9 +1830,9 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qS03QrlaPm {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #2e2e2e;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #171e48;
 }
 @media (max-width: 767px) {
   .cid-qS03QrlaPm .content {
