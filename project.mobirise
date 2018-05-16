@@ -162,6 +162,19 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/die-burger.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/die-burger-800x440.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -181,19 +194,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/ismail1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ismail1-513x768.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/die-burger.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/die-burger-800x440.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
