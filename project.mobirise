@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Ismail Teaching Portfolio",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 22,
@@ -37,14 +37,16 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ismail Teaching Portfolio",
+        "meta_descr": "Teaching Portfolio of Dr Badroen Ismail\nSchool for Initial Teacher Education\nNelson Mandela University",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
