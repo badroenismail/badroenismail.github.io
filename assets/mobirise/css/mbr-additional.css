@@ -1307,3 +1307,56 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rXA2etE6ga {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rXA2etE6ga .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rXA2etE6ga .step {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rXA2etE6ga .step {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-rXA2etE6ga .separline {
+  position: relative;
+}
+.cid-rXA2etE6ga .separline:after {
+  top: 68px;
+  left: 30px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (32px + 4px) * 2);
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rXA2etE6ga .separline:after {
+    top: 52px;
+    left: 22px;
+    height: calc(100% - 56px);
+  }
+}
+.cid-rXA2etE6ga .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rXA2etE6ga .mbr-step-title {
+  color: #ffffff;
+}
+.cid-rXA2etE6ga .mbr-step-text {
+  color: #ffffff;
+}
