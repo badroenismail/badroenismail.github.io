@@ -1493,9 +1493,14 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rYswSvVoVK {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #021c25;
+}
 .cid-rYsugytUxY {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #021c25;
 }
 .cid-rYsugytUxY .mbr-text {
